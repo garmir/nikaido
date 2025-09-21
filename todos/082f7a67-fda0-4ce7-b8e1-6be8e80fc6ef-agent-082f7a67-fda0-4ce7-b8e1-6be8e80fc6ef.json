@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Check current NixOS generation status",
+    "status": "completed",
+    "activeForm": "Checking current NixOS generation status"
+  },
+  {
+    "content": "Pull latest changes from GitHub",
+    "status": "completed",
+    "activeForm": "Pulling latest changes from GitHub"
+  },
+  {
+    "content": "Enable thermal management in system configuration",
+    "status": "completed",
+    "activeForm": "Enabling thermal management in system configuration"
+  },
+  {
+    "content": "Fix hyprgrass plugin loading for gesture support",
+    "status": "completed",
+    "activeForm": "Fixing hyprgrass plugin loading for gesture support"
+  },
+  {
+    "content": "Test NixOS configuration build",
+    "status": "in_progress",
+    "activeForm": "Testing NixOS configuration build"
+  },
+  {
+    "content": "Safely switch to latest stable generation",
+    "status": "pending",
+    "activeForm": "Safely switching to latest stable generation"
+  },
+  {
+    "content": "Verify all services after generation switch",
+    "status": "pending",
+    "activeForm": "Verifying all services after generation switch"
+  }
+]

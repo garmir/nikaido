@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Fix Hyprland detection in auto-rotate service",
+    "status": "completed",
+    "activeForm": "Fixing Hyprland detection in auto-rotate service"
+  },
+  {
+    "content": "Set display back to landscape orientation",
+    "status": "completed",
+    "activeForm": "Setting display back to landscape orientation"
+  },
+  {
+    "content": "Test auto-rotation functionality",
+    "status": "in_progress",
+    "activeForm": "Testing auto-rotation functionality"
+  }
+]

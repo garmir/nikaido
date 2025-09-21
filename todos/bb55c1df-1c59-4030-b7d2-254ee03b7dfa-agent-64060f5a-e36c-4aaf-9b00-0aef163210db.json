@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check if ghostty binary exists and is in PATH",
+    "status": "in_progress",
+    "activeForm": "Checking if ghostty binary exists and is in PATH"
+  },
+  {
+    "content": "Test Super+T keybinding by checking Hyprland configuration",
+    "status": "pending",
+    "activeForm": "Testing Super+T keybinding by checking Hyprland configuration"
+  },
+  {
+    "content": "Verify ghostty process is available for launch",
+    "status": "pending",
+    "activeForm": "Verifying ghostty process is available for launch"
+  },
+  {
+    "content": "Check ghostty configuration in home-manager",
+    "status": "pending",
+    "activeForm": "Checking ghostty configuration in home-manager"
+  }
+]

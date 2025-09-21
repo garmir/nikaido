@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Audit system modules for completeness",
+    "status": "completed",
+    "activeForm": "Auditing system modules for completeness"
+  },
+  {
+    "content": "Audit home-manager modules for completeness",
+    "status": "completed",
+    "activeForm": "Auditing home-manager modules for completeness"
+  },
+  {
+    "content": "Check for undocumented configuration files",
+    "status": "completed",
+    "activeForm": "Checking for undocumented configuration files"
+  },
+  {
+    "content": "Verify all critical commands are documented",
+    "status": "completed",
+    "activeForm": "Verifying all critical commands are documented"
+  },
+  {
+    "content": "Update CLAUDE.md with any missing information",
+    "status": "in_progress",
+    "activeForm": "Updating CLAUDE.md with any missing information"
+  }
+]

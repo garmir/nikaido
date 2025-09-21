@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Apply memory fixes - kill excess processes and implement limits",
+    "status": "completed",
+    "activeForm": "Applying memory fixes - killing excess processes and implementing limits"
+  },
+  {
+    "content": "Verify ghostty terminal functionality and keybindings",
+    "status": "completed",
+    "activeForm": "Verifying ghostty terminal functionality and keybindings"
+  },
+  {
+    "content": "Test fingerprint authentication service",
+    "status": "in_progress",
+    "activeForm": "Testing fingerprint authentication service"
+  },
+  {
+    "content": "Check auto-rotation service status",
+    "status": "in_progress",
+    "activeForm": "Checking auto-rotation service status"
+  },
+  {
+    "content": "Validate touchscreen gesture support",
+    "status": "in_progress",
+    "activeForm": "Validating touchscreen gesture support"
+  },
+  {
+    "content": "Verify power management configuration",
+    "status": "in_progress",
+    "activeForm": "Verifying power management configuration"
+  },
+  {
+    "content": "Confirm Hydenix integration features",
+    "status": "in_progress",
+    "activeForm": "Confirming Hydenix integration features"
+  }
+]

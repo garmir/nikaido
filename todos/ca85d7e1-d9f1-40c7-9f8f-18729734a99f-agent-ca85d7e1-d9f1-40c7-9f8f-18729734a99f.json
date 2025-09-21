@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Initialize complete .claude documentation structure",
+    "status": "in_progress",
+    "activeForm": "Initializing complete .claude documentation structure"
+  },
+  {
+    "content": "Create nikaido repository under 0x org",
+    "status": "pending",
+    "activeForm": "Creating nikaido repository under 0x org"
+  },
+  {
+    "content": "Upload all .claude files with full depth",
+    "status": "pending",
+    "activeForm": "Uploading all .claude files with full depth"
+  },
+  {
+    "content": "Push complete methodology to nikaido repo",
+    "status": "pending",
+    "activeForm": "Pushing complete methodology to nikaido repo"
+  },
+  {
+    "content": "Validate repository completeness",
+    "status": "pending",
+    "activeForm": "Validating repository completeness"
+  }
+]

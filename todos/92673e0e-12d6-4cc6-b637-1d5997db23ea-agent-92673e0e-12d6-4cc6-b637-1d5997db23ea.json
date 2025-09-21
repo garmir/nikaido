@@ -1,0 +1,27 @@
+[
+  {
+    "content": "CRITICAL - Diagnose system crash and recovery state",
+    "status": "in_progress",
+    "activeForm": "CRITICAL - Diagnosing system crash and recovery state"
+  },
+  {
+    "content": "Check current NixOS generation vs GitHub latest",
+    "status": "pending",
+    "activeForm": "Checking current NixOS generation vs GitHub latest"
+  },
+  {
+    "content": "Reset to clean GitHub state if needed",
+    "status": "pending",
+    "activeForm": "Resetting to clean GitHub state if needed"
+  },
+  {
+    "content": "Rebuild system from latest GitHub commit",
+    "status": "pending",
+    "activeForm": "Rebuilding system from latest GitHub commit"
+  },
+  {
+    "content": "Verify all services after recovery",
+    "status": "pending",
+    "activeForm": "Verifying all services after recovery"
+  }
+]

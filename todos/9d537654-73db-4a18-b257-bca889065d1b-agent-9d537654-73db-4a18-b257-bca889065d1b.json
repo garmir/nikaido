@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Check current system status and git state",
+    "status": "completed",
+    "activeForm": "Checking current system status and git state"
+  },
+  {
+    "content": "Verify we're on the latest GitHub commit",
+    "status": "completed",
+    "activeForm": "Verifying we're on the latest GitHub commit"
+  },
+  {
+    "content": "Diagnose crash cause from logs",
+    "status": "completed",
+    "activeForm": "Diagnosing crash cause from logs"
+  },
+  {
+    "content": "Pull latest changes from GitHub",
+    "status": "in_progress",
+    "activeForm": "Pulling latest changes from GitHub"
+  },
+  {
+    "content": "Update flake inputs",
+    "status": "pending",
+    "activeForm": "Updating flake inputs"
+  },
+  {
+    "content": "Rebuild system with hardware detection",
+    "status": "pending",
+    "activeForm": "Rebuilding system with hardware detection"
+  }
+]

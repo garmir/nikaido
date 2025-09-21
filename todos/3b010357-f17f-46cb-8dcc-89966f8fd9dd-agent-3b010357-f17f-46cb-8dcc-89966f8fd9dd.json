@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Rebuild NixOS configuration with touchscreen changes",
+    "status": "in_progress",
+    "activeForm": "Rebuilding NixOS configuration with touchscreen changes"
+  },
+  {
+    "content": "Verify touchscreen calibration persists after rebuild",
+    "status": "pending",
+    "activeForm": "Verifying touchscreen calibration persists after rebuild"
+  }
+]

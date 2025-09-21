@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Investigate Claude crash - stack buffer overflow",
+    "status": "in_progress",
+    "activeForm": "Investigating Claude crash - stack buffer overflow"
+  },
+  {
+    "content": "Kill hung Claude process consuming 100% CPU",
+    "status": "pending",
+    "activeForm": "Killing hung Claude process consuming 100% CPU"
+  },
+  {
+    "content": "Implement crash recovery measures",
+    "status": "pending",
+    "activeForm": "Implementing crash recovery measures"
+  },
+  {
+    "content": "Verify system stability after recovery",
+    "status": "pending",
+    "activeForm": "Verifying system stability after recovery"
+  }
+]

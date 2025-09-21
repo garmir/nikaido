@@ -1,0 +1,89 @@
+{
+  "commands": {
+    "auto_update": false,
+    "enabled": true,
+    "version": "4.0.6"
+  },
+  "components": {
+    "agents": {
+      "agents_count": 14,
+      "agents_list": [
+        "backend-architect.md",
+        "devops-architect.md",
+        "frontend-architect.md",
+        "learning-guide.md",
+        "performance-engineer.md",
+        "python-expert.md",
+        "quality-engineer.md",
+        "refactoring-expert.md",
+        "requirements-analyst.md",
+        "root-cause-analyst.md",
+        "security-engineer.md",
+        "socratic-mentor.md",
+        "system-architect.md",
+        "technical-writer.md"
+      ],
+      "category": "agents",
+      "installed_at": "2025-09-19T03:50:45.142186",
+      "version": "4.0.6"
+    },
+    "commands": {
+      "category": "commands",
+      "files_count": 21,
+      "installed_at": "2025-09-19T03:50:45.132117",
+      "version": "4.0.6"
+    },
+    "core": {
+      "category": "core",
+      "files_count": 3,
+      "installed_at": "2025-09-19T03:50:45.112311",
+      "version": "4.0.6"
+    },
+    "mcp": {
+      "configured_servers": [
+        "context7",
+        "sequential",
+        "magic",
+        "playwright",
+        "serena",
+        "morphllm"
+      ],
+      "installed": true,
+      "servers_configured": 6,
+      "version": "4.0.6"
+    },
+    "mcp_docs": {
+      "files_count": 6,
+      "installed": true,
+      "servers_documented": [
+        "context7",
+        "sequential",
+        "magic",
+        "playwright",
+        "serena",
+        "morphllm"
+      ],
+      "version": "4.0.6"
+    },
+    "modes": {
+      "files_count": 5,
+      "installed": true,
+      "version": "4.0.6"
+    }
+  },
+  "framework": {
+    "components": [
+      "core"
+    ],
+    "description": "AI-enhanced development framework for Claude Code",
+    "installation_type": "global",
+    "name": "SuperClaude",
+    "version": "4.0.6"
+  },
+  "superclaude": {
+    "auto_update": false,
+    "enabled": true,
+    "profile": "default",
+    "version": "4.0.6"
+  }
+}

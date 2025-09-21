@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Refactor h(0x)eadcrab!.md to remove code/doc writing references",
+    "status": "completed",
+    "activeForm": "Refactoring h(0x)eadcrab!.md"
+  },
+  {
+    "content": "Refactor RULES.md to remove code/doc writing references",
+    "status": "in_progress",
+    "activeForm": "Refactoring RULES.md"
+  },
+  {
+    "content": "Review both files for consistency",
+    "status": "pending",
+    "activeForm": "Reviewing files for consistency"
+  }
+]

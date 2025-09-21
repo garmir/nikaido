@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Check current system status and git state",
+    "status": "completed",
+    "activeForm": "Checking current system status and git state"
+  },
+  {
+    "content": "Verify we're on the latest GitHub commit",
+    "status": "completed",
+    "activeForm": "Verifying we're on the latest GitHub commit"
+  },
+  {
+    "content": "Diagnose crash cause from logs",
+    "status": "completed",
+    "activeForm": "Diagnosing crash cause from logs"
+  },
+  {
+    "content": "Reset to GitHub state if needed",
+    "status": "pending",
+    "activeForm": "Resetting to GitHub state if needed"
+  },
+  {
+    "content": "Rebuild system with latest configuration",
+    "status": "in_progress",
+    "activeForm": "Rebuilding system with latest configuration"
+  }
+]

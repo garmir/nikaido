@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Create parallel runners test workflow",
+    "status": "in_progress",
+    "activeForm": "Creating parallel runners test workflow"
+  },
+  {
+    "content": "Execute multiple parallel runners",
+    "status": "pending",
+    "activeForm": "Executing multiple parallel runners"
+  },
+  {
+    "content": "Analyze parallel runner coordination",
+    "status": "pending",
+    "activeForm": "Analyzing parallel runner coordination"
+  },
+  {
+    "content": "Document parallel execution results",
+    "status": "pending",
+    "activeForm": "Documenting parallel execution results"
+  }
+]

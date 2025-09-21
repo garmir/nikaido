@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check fix-hyprland-monitor service status",
+    "status": "completed",
+    "activeForm": "Checking fix-hyprland-monitor service status"
+  },
+  {
+    "content": "Verify accelerometer device at /sys/bus/iio/devices/iio:device0",
+    "status": "in_progress",
+    "activeForm": "Verifying accelerometer device at /sys/bus/iio/devices/iio:device0"
+  },
+  {
+    "content": "Test if rotation values are readable",
+    "status": "pending",
+    "activeForm": "Testing if rotation values are readable"
+  },
+  {
+    "content": "Check Hyprland monitor configuration for DSI-1",
+    "status": "pending",
+    "activeForm": "Checking Hyprland monitor configuration for DSI-1"
+  }
+]

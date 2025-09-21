@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check thermald service status",
+    "status": "in_progress",
+    "activeForm": "Checking thermald service status"
+  },
+  {
+    "content": "Verify power-profiles-daemon status",
+    "status": "pending",
+    "activeForm": "Verifying power-profiles-daemon status"
+  },
+  {
+    "content": "Check lid behavior configuration",
+    "status": "pending",
+    "activeForm": "Checking lid behavior configuration"
+  },
+  {
+    "content": "Test battery status commands",
+    "status": "pending",
+    "activeForm": "Testing battery status commands"
+  }
+]

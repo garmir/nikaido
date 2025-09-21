@@ -1,0 +1,322 @@
+[
+  {
+    "content": "Enable hyprlandGhostty module in configuration",
+    "status": "pending",
+    "activeForm": "Enabling hyprlandGhostty module in configuration"
+  },
+  {
+    "content": "Verify the fix works after rebuild",
+    "status": "pending",
+    "activeForm": "Verifying the fix works after rebuild"
+  },
+  {
+    "content": "Test Super+T keybinding launches ghostty",
+    "status": "pending",
+    "activeForm": "Testing Super+T keybinding launches ghostty"
+  },
+  {
+    "content": "Analyze and document system architecture and module structure",
+    "status": "completed",
+    "activeForm": "Analyzing and documenting system architecture and module structure"
+  },
+  {
+    "content": "Extract and document critical commands and workflows",
+    "status": "completed",
+    "activeForm": "Extracting and documenting critical commands and workflows"
+  },
+  {
+    "content": "Document hardware-specific GPD Pocket 3 features",
+    "status": "completed",
+    "activeForm": "Documenting hardware-specific GPD Pocket 3 features"
+  },
+  {
+    "content": "Compile final CLAUDE.md with all sections",
+    "status": "completed",
+    "activeForm": "Compiling final CLAUDE.md with all sections"
+  },
+  {
+    "content": "Check if ghostty replaces kitty in the configuration",
+    "status": "completed",
+    "activeForm": "Checking if ghostty replaces kitty in the configuration"
+  },
+  {
+    "content": "Verify Hydenix repository integration for terminal support",
+    "status": "completed",
+    "activeForm": "Verifying Hydenix repository integration for terminal support"
+  },
+  {
+    "content": "Compare redundant agent results for accuracy",
+    "status": "completed",
+    "activeForm": "Comparing redundant agent results for accuracy"
+  },
+  {
+    "content": "Synthesize findings from all redundant agents",
+    "status": "completed",
+    "activeForm": "Synthesizing findings from all redundant agents"
+  },
+  {
+    "content": "Verify complete ghostty implementation status",
+    "status": "completed",
+    "activeForm": "Verifying complete ghostty implementation status"
+  },
+  {
+    "content": "Check all ghostty integration points",
+    "status": "completed",
+    "activeForm": "Checking all ghostty integration points"
+  },
+  {
+    "content": "Analyze GitHub commit history for recent features",
+    "status": "completed",
+    "activeForm": "Analyzing GitHub commit history for recent features"
+  },
+  {
+    "content": "Identify uncommitted or unpushed features",
+    "status": "completed",
+    "activeForm": "Identifying uncommitted or unpushed features"
+  },
+  {
+    "content": "Check status of thermal and power management features",
+    "status": "completed",
+    "activeForm": "Checking status of thermal and power management features"
+  },
+  {
+    "content": "Check if Super+T keybinding launches ghostty",
+    "status": "completed",
+    "activeForm": "Checking if Super+T keybinding launches ghostty"
+  },
+  {
+    "content": "Verify Hyprland keybinding configuration",
+    "status": "completed",
+    "activeForm": "Verifying Hyprland keybinding configuration"
+  },
+  {
+    "content": "Check if keybindings are properly overridden",
+    "status": "completed",
+    "activeForm": "Checking if keybindings are properly overridden"
+  },
+  {
+    "content": "Store npx claude-code pattern in memory",
+    "status": "completed",
+    "activeForm": "Storing npx claude-code pattern in memory"
+  },
+  {
+    "content": "Create agent spawning infrastructure",
+    "status": "pending",
+    "activeForm": "Creating agent spawning infrastructure"
+  },
+  {
+    "content": "Add hyprland-ghostty.nix import to desktop default.nix",
+    "status": "pending",
+    "activeForm": "Adding hyprland-ghostty.nix import to desktop default.nix"
+  },
+  {
+    "content": "Enable hyprlandGhostty in hm default.nix",
+    "status": "pending",
+    "activeForm": "Enabling hyprlandGhostty in hm default.nix"
+  },
+  {
+    "content": "Rebuild NixOS configuration with --impure flag",
+    "status": "pending",
+    "activeForm": "Rebuilding NixOS configuration with --impure flag"
+  },
+  {
+    "content": "Test Super+T and Super+Alt+T keybindings",
+    "status": "pending",
+    "activeForm": "Testing Super+T and Super+Alt+T keybindings"
+  },
+  {
+    "content": "Push 5 unpushed commits to GitHub origin/production",
+    "status": "pending",
+    "activeForm": "Pushing 5 unpushed commits to GitHub origin/production"
+  },
+  {
+    "content": "Commit modified battery optimization and power files",
+    "status": "pending",
+    "activeForm": "Committing modified battery optimization and power files"
+  },
+  {
+    "content": "Enable hardware monitoring module (resolve permissions)",
+    "status": "pending",
+    "activeForm": "Enabling hardware monitoring module (resolve permissions)"
+  },
+  {
+    "content": "Import thermal-management.nix in hardware default.nix",
+    "status": "pending",
+    "activeForm": "Importing thermal-management.nix in hardware default.nix"
+  },
+  {
+    "content": "Resolve TLP vs power-profiles-daemon conflict",
+    "status": "pending",
+    "activeForm": "Resolving TLP vs power-profiles-daemon conflict"
+  },
+  {
+    "content": "Test thermald thermal protection functionality",
+    "status": "pending",
+    "activeForm": "Testing thermald thermal protection functionality"
+  },
+  {
+    "content": "Verify battery charge thresholds (20-80%)",
+    "status": "pending",
+    "activeForm": "Verifying battery charge thresholds (20-80%)"
+  },
+  {
+    "content": "Test lid behavior (ignore) functionality",
+    "status": "pending",
+    "activeForm": "Testing lid behavior (ignore) functionality"
+  },
+  {
+    "content": "Verify fingerprint authentication (SDDM, sudo, swaylock)",
+    "status": "pending",
+    "activeForm": "Verifying fingerprint authentication (SDDM, sudo, swaylock)"
+  },
+  {
+    "content": "Test auto-rotate service for dual monitors",
+    "status": "pending",
+    "activeForm": "Testing auto-rotate service for dual monitors"
+  },
+  {
+    "content": "Verify EasyEffects Meze_109_Pro preset loading",
+    "status": "pending",
+    "activeForm": "Verifying EasyEffects Meze_109_Pro preset loading"
+  },
+  {
+    "content": "Test hyprgrass 3-finger gestures",
+    "status": "pending",
+    "activeForm": "Testing hyprgrass 3-finger gestures"
+  },
+  {
+    "content": "Verify libinput touchscreen gestures",
+    "status": "pending",
+    "activeForm": "Verifying libinput touchscreen gestures"
+  },
+  {
+    "content": "Test Wayland screenshare for Electron apps",
+    "status": "pending",
+    "activeForm": "Testing Wayland screenshare for Electron apps"
+  },
+  {
+    "content": "Verify MPD music player daemon",
+    "status": "pending",
+    "activeForm": "Verifying MPD music player daemon"
+  },
+  {
+    "content": "Test keyd keyboard remapping",
+    "status": "pending",
+    "activeForm": "Testing keyd keyboard remapping"
+  },
+  {
+    "content": "Verify Vial keyboard configurator",
+    "status": "pending",
+    "activeForm": "Verifying Vial keyboard configurator"
+  },
+  {
+    "content": "Test display management tools (wlr-randr, wdisplays, kanshi)",
+    "status": "pending",
+    "activeForm": "Testing display management tools (wlr-randr, wdisplays, kanshi)"
+  },
+  {
+    "content": "Verify GRUB Globe theme matching Plymouth",
+    "status": "pending",
+    "activeForm": "Verifying GRUB Globe theme matching Plymouth"
+  },
+  {
+    "content": "Test Plymouth boot splash",
+    "status": "pending",
+    "activeForm": "Testing Plymouth boot splash"
+  },
+  {
+    "content": "Verify KeePassXC secret management",
+    "status": "pending",
+    "activeForm": "Verifying KeePassXC secret management"
+  },
+  {
+    "content": "Test Proton Bridge email integration",
+    "status": "pending",
+    "activeForm": "Testing Proton Bridge email integration"
+  },
+  {
+    "content": "Verify SuperClaude AI framework",
+    "status": "pending",
+    "activeForm": "Verifying SuperClaude AI framework"
+  },
+  {
+    "content": "Test Firefox Cascade theme",
+    "status": "pending",
+    "activeForm": "Testing Firefox Cascade theme"
+  },
+  {
+    "content": "Verify MPV hardware decoding",
+    "status": "pending",
+    "activeForm": "Verifying MPV hardware decoding"
+  },
+  {
+    "content": "Test btop++ system monitor",
+    "status": "pending",
+    "activeForm": "Testing btop++ system monitor"
+  },
+  {
+    "content": "Verify Tidal music player suspend inhibit",
+    "status": "pending",
+    "activeForm": "Verifying Tidal music player suspend inhibit"
+  },
+  {
+    "content": "Test Catppuccin Mocha Teal theme",
+    "status": "pending",
+    "activeForm": "Testing Catppuccin Mocha Teal theme"
+  },
+  {
+    "content": "Verify waybar rotation lock button",
+    "status": "pending",
+    "activeForm": "Verifying waybar rotation lock button"
+  },
+  {
+    "content": "Test waybar rotation patch auto-application",
+    "status": "pending",
+    "activeForm": "Testing waybar rotation patch auto-application"
+  },
+  {
+    "content": "Verify hypridle custom idle management",
+    "status": "pending",
+    "activeForm": "Verifying hypridle custom idle management"
+  },
+  {
+    "content": "Enable fusuma gesture recognizer (fix Ruby gems)",
+    "status": "pending",
+    "activeForm": "Enabling fusuma gesture recognizer (fix Ruby gems)"
+  },
+  {
+    "content": "Implement automatic power profile switching",
+    "status": "pending",
+    "activeForm": "Implementing automatic power profile switching"
+  },
+  {
+    "content": "Create udev rules for hardware monitoring permissions",
+    "status": "pending",
+    "activeForm": "Creating udev rules for hardware monitoring permissions"
+  },
+  {
+    "content": "Test hwmon commands (hwmon, hwmon-log, hwmon-test)",
+    "status": "pending",
+    "activeForm": "Testing hwmon commands (hwmon, hwmon-log, hwmon-test)"
+  },
+  {
+    "content": "Verify display rotation scripts functionality",
+    "status": "pending",
+    "activeForm": "Verifying display rotation scripts functionality"
+  },
+  {
+    "content": "Test DSI-1 monitor configuration (1200x1920@60, 1.5x scale)",
+    "status": "pending",
+    "activeForm": "Testing DSI-1 monitor configuration (1200x1920@60, 1.5x scale)"
+  },
+  {
+    "content": "Research all nix modules and features",
+    "status": "completed",
+    "activeForm": "Researching all nix modules and features"
+  },
+  {
+    "content": "Check GitHub features and unpushed changes",
+    "status": "completed",
+    "activeForm": "Checking GitHub features and unpushed changes"
+  }
+]

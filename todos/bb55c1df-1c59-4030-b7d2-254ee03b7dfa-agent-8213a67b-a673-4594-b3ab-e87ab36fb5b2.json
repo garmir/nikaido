@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check fprintd service status",
+    "status": "pending",
+    "activeForm": "Checking fprintd service status"
+  },
+  {
+    "content": "Verify focal_spi kernel module is loaded",
+    "status": "pending",
+    "activeForm": "Verifying focal_spi kernel module is loaded"
+  },
+  {
+    "content": "Check if /dev/focal_moh_spi device exists",
+    "status": "pending",
+    "activeForm": "Checking if /dev/focal_moh_spi device exists"
+  },
+  {
+    "content": "Verify PAM configuration for fingerprint auth",
+    "status": "pending",
+    "activeForm": "Verifying PAM configuration for fingerprint auth"
+  }
+]

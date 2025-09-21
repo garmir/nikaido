@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check for existing Hyprland configuration",
+    "status": "completed",
+    "activeForm": "Checking for existing Hyprland configuration"
+  },
+  {
+    "content": "Analyze NixOS modules for input/pen configuration",
+    "status": "in_progress",
+    "activeForm": "Analyzing NixOS modules for input/pen configuration"
+  },
+  {
+    "content": "Add pen input transformation to NixOS configuration",
+    "status": "pending",
+    "activeForm": "Adding pen input transformation to NixOS configuration"
+  },
+  {
+    "content": "Verify the configuration syntax",
+    "status": "pending",
+    "activeForm": "Verifying the configuration syntax"
+  }
+]

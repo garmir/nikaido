@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Research alternative tooling approaches online",
+    "status": "completed",
+    "activeForm": "Researching alternative tooling approaches online"
+  },
+  {
+    "content": "Design exponential tree propagation methodology",
+    "status": "in_progress",
+    "activeForm": "Designing exponential tree propagation methodology"
+  },
+  {
+    "content": "Create runner-as-node tree workflow",
+    "status": "pending",
+    "activeForm": "Creating runner-as-node tree workflow"
+  },
+  {
+    "content": "Document exponential infrastructure utilization",
+    "status": "pending",
+    "activeForm": "Documenting exponential infrastructure utilization"
+  },
+  {
+    "content": "Update .claude docs with full methodology",
+    "status": "pending",
+    "activeForm": "Updating .claude docs with full methodology"
+  }
+]

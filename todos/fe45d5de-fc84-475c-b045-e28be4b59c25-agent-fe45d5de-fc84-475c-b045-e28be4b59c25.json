@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Pull latest commits from GitHub production branch",
+    "status": "completed",
+    "activeForm": "Pulling latest commits from GitHub production branch"
+  },
+  {
+    "content": "Verify repository state after pull",
+    "status": "completed",
+    "activeForm": "Verifying repository state after pull"
+  },
+  {
+    "content": "Rebuild NixOS system from clean GitHub state",
+    "status": "in_progress",
+    "activeForm": "Rebuilding NixOS system from clean GitHub state"
+  },
+  {
+    "content": "Verify system boot and functionality",
+    "status": "pending",
+    "activeForm": "Verifying system boot and functionality"
+  }
+]

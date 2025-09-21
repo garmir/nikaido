@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Implement emergency thermal protection",
+    "status": "completed",
+    "activeForm": "Implementing emergency thermal protection"
+  },
+  {
+    "content": "Fix deprecated nix-index-database import",
+    "status": "completed",
+    "activeForm": "Fixing deprecated nix-index-database import"
+  },
+  {
+    "content": "Clean up backup files",
+    "status": "completed",
+    "activeForm": "Cleaning up backup files"
+  },
+  {
+    "content": "Create thermal management module",
+    "status": "completed",
+    "activeForm": "Creating thermal management module"
+  },
+  {
+    "content": "Create battery optimization module",
+    "status": "completed",
+    "activeForm": "Creating battery optimization module"
+  },
+  {
+    "content": "Create hardware monitoring module",
+    "status": "completed",
+    "activeForm": "Creating hardware monitoring module"
+  },
+  {
+    "content": "Research and implement TLP integration",
+    "status": "completed",
+    "activeForm": "Researching and implementing TLP integration"
+  },
+  {
+    "content": "Test all implementations",
+    "status": "completed",
+    "activeForm": "Testing all implementations"
+  },
+  {
+    "content": "Verify thermald service configuration",
+    "status": "in_progress",
+    "activeForm": "Verifying thermald service configuration"
+  }
+]

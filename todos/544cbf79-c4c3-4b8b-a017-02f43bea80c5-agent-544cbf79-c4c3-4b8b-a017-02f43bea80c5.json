@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Diagnose second system crash",
+    "status": "completed",
+    "activeForm": "Diagnosing second system crash"
+  },
+  {
+    "content": "Check GitHub for recent commits",
+    "status": "completed",
+    "activeForm": "Checking GitHub for recent commits"
+  },
+  {
+    "content": "Remove problematic monitoring module import",
+    "status": "completed",
+    "activeForm": "Removing problematic monitoring module import"
+  },
+  {
+    "content": "Ensure stable configuration",
+    "status": "in_progress",
+    "activeForm": "Ensuring stable configuration"
+  }
+]

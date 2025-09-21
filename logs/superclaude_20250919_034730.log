@@ -1,0 +1,36 @@
+2025-09-19 03:47:30 | DEBUG    | superclaude | SuperClaude called with operation: install
+2025-09-19 03:47:30 | DEBUG    | superclaude | Arguments: {'verbose': False, 'quiet': False, 'install_dir': PosixPath('/home/a/.claude'), 'dry_run': False, 'force': False, 'yes': True, 'operation': 'install', 'components': ['commands'], 'no_backup': False, 'list_components': False, 'diagnose': False}
+2025-09-19 03:47:30 | INFO     | superclaude | Executing operation: install
+2025-09-19 03:47:30 | INFO     | superclaude | Starting install operation
+2025-09-19 03:47:30 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 433963)
+2025-09-19 03:47:30 | INFO     | superclaude | Initializing installation system...
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 5 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Modes
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['MODE_Brainstorming.md', 'MODE_Introspection.md', 'MODE_Orchestration.md', 'MODE_Task_Management.md', 'MODE_Token_Efficiency.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 14 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Agents
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['backend-architect.md', 'devops-architect.md', 'frontend-architect.md', 'learning-guide.md', 'performance-engineer.md', 'python-expert.md', 'quality-engineer.md', 'refactoring-expert.md', 'requirements-analyst.md', 'root-cause-analyst.md', 'security-engineer.md', 'socratic-mentor.md', 'system-architect.md', 'technical-writer.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 0 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/MCP/configs
+2025-09-19 03:47:30 | INFO     | superclaude | Validating system requirements...
+2025-09-19 03:47:30 | INFO     | superclaude | All system requirements met
+2025-09-19 03:47:30 | WARNING  | superclaude | Installation directory already exists: /home/a/.claude
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 5 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Modes
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['MODE_Brainstorming.md', 'MODE_Introspection.md', 'MODE_Orchestration.md', 'MODE_Task_Management.md', 'MODE_Token_Efficiency.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 14 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Agents
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['backend-architect.md', 'devops-architect.md', 'frontend-architect.md', 'learning-guide.md', 'performance-engineer.md', 'python-expert.md', 'quality-engineer.md', 'refactoring-expert.md', 'requirements-analyst.md', 'root-cause-analyst.md', 'security-engineer.md', 'socratic-mentor.md', 'system-architect.md', 'technical-writer.md']
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 0 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/MCP/configs
+2025-09-19 03:47:30 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:47:30 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:47:30 | INFO     | superclaude | Installing 2 components...
+2025-09-19 03:47:30 | ERROR    | superclaude | Dependency resolution error: Unknown component: core
+2025-09-19 03:47:31 | ERROR    | superclaude | Installation completed with errors in 0.2 seconds

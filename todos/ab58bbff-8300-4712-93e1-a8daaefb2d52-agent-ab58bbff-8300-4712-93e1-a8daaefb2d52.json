@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create MODE_Agent_Automation.md file for SuperClaude",
+    "status": "completed",
+    "activeForm": "Creating MODE_Agent_Automation.md file"
+  },
+  {
+    "content": "Write behavioral instructions for automated agent execution",
+    "status": "completed",
+    "activeForm": "Writing behavioral instructions"
+  },
+  {
+    "content": "Add @include reference to CLAUDE.md",
+    "status": "completed",
+    "activeForm": "Adding @include reference"
+  },
+  {
+    "content": "Create helper script for parallel agent execution",
+    "status": "pending",
+    "activeForm": "Creating helper script"
+  },
+  {
+    "content": "Test integration with SuperClaude framework",
+    "status": "in_progress",
+    "activeForm": "Testing integration"
+  }
+]

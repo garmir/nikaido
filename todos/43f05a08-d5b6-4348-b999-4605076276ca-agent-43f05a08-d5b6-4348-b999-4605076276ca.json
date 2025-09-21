@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Test thermal management module functionality",
+    "status": "completed",
+    "activeForm": "Testing thermal management module functionality"
+  },
+  {
+    "content": "Verify thermal zones and temperature readings",
+    "status": "completed",
+    "activeForm": "Verifying thermal zones and temperature readings"
+  },
+  {
+    "content": "Check thermal throttling thresholds",
+    "status": "completed",
+    "activeForm": "Checking thermal throttling thresholds"
+  },
+  {
+    "content": "Document thermal management features",
+    "status": "completed",
+    "activeForm": "Documenting thermal management features"
+  },
+  {
+    "content": "Test thermal module directly with stress testing",
+    "status": "completed",
+    "activeForm": "Testing thermal module directly with stress testing"
+  },
+  {
+    "content": "Fix thermal zone path to monitor TCPU instead of INT3400",
+    "status": "completed",
+    "activeForm": "Fixing thermal zone path to monitor TCPU instead of INT3400"
+  },
+  {
+    "content": "Test fixed thermal module with rebuild",
+    "status": "in_progress",
+    "activeForm": "Testing fixed thermal module with rebuild"
+  },
+  {
+    "content": "Copy thermal module to 0x1 if working",
+    "status": "pending",
+    "activeForm": "Copying thermal module to 0x1 if working"
+  }
+]

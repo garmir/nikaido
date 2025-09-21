@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Check display manager and graphical services",
+    "status": "completed",
+    "activeForm": "Checking display manager and graphical services"
+  },
+  {
+    "content": "Verify Hyprland/Wayland status",
+    "status": "completed",
+    "activeForm": "Verifying Hyprland/Wayland status"
+  },
+  {
+    "content": "Check system logs for errors",
+    "status": "completed",
+    "activeForm": "Checking system logs for errors"
+  },
+  {
+    "content": "Verify all critical services",
+    "status": "completed",
+    "activeForm": "Verifying all critical services"
+  },
+  {
+    "content": "Check user session and environment",
+    "status": "completed",
+    "activeForm": "Checking user session and environment"
+  },
+  {
+    "content": "Diagnose and fix TTY issue",
+    "status": "in_progress",
+    "activeForm": "Diagnosing and fixing TTY issue"
+  }
+]

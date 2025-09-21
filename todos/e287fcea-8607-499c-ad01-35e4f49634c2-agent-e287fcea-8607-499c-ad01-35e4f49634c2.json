@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Diagnose Claude instance hang/crash",
+    "status": "in_progress",
+    "activeForm": "Diagnosing Claude instance hang/crash"
+  },
+  {
+    "content": "Check system resources during Claude operations",
+    "status": "pending",
+    "activeForm": "Checking system resources during Claude operations"
+  },
+  {
+    "content": "Analyze Claude process patterns",
+    "status": "pending",
+    "activeForm": "Analyzing Claude process patterns"
+  },
+  {
+    "content": "Implement Claude stability measures",
+    "status": "pending",
+    "activeForm": "Implementing Claude stability measures"
+  }
+]

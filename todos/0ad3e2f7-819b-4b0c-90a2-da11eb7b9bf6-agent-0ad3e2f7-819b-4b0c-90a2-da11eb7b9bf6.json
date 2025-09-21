@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Review the automated agent distribution methodology",
+    "status": "completed",
+    "activeForm": "Reviewing the automated agent distribution methodology"
+  },
+  {
+    "content": "Create example automation scripts",
+    "status": "in_progress",
+    "activeForm": "Creating example automation scripts"
+  },
+  {
+    "content": "Test the automated execution pattern",
+    "status": "pending",
+    "activeForm": "Testing the automated execution pattern"
+  }
+]

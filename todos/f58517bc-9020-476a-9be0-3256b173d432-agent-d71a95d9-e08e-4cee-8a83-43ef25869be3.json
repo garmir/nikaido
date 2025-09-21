@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Analyze delegation requirements and validate approach feasibility",
+    "status": "in_progress",
+    "activeForm": "Analyzing delegation requirements and validating approach feasibility"
+  },
+  {
+    "content": "Define workspace hygiene analysis scope and success criteria",
+    "status": "pending",
+    "activeForm": "Defining workspace hygiene analysis scope and success criteria"
+  },
+  {
+    "content": "Design delegation hierarchy with clear agent responsibilities",
+    "status": "pending",
+    "activeForm": "Designing delegation hierarchy with clear agent responsibilities"
+  },
+  {
+    "content": "Validate resource constraints and execution boundaries",
+    "status": "pending",
+    "activeForm": "Validating resource constraints and execution boundaries"
+  }
+]

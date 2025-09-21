@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Launch general-purpose agent for initial workspace assessment",
+    "status": "in_progress",
+    "activeForm": "Launching general-purpose agent for initial workspace assessment"
+  },
+  {
+    "content": "Launch system-architect agent for architectural analysis",
+    "status": "pending",
+    "activeForm": "Launching system-architect agent for architectural analysis"
+  },
+  {
+    "content": "Launch performance-engineer agent for performance evaluation",
+    "status": "pending",
+    "activeForm": "Launching performance-engineer agent for performance evaluation"
+  },
+  {
+    "content": "Coordinate findings from all delegated agents",
+    "status": "pending",
+    "activeForm": "Coordinating findings from all delegated agents"
+  }
+]

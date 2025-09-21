@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Execute all 15 todos within RULES-compliant nix-shell with SuperClaude",
+    "status": "completed",
+    "activeForm": "Executing all 15 todos within RULES-compliant nix-shell"
+  },
+  {
+    "content": "Fix all line references in CLAUDE.md (126, 122, 10-13, 6-46, 47-48)",
+    "status": "completed",
+    "activeForm": "Fixing all line references in CLAUDE.md"
+  },
+  {
+    "content": "Test all system validation tasks (auto-rotation, fingerprint, lid, display)",
+    "status": "completed",
+    "activeForm": "Testing all system validation tasks"
+  },
+  {
+    "content": "Implement KeePassXC and parallel execution documentation",
+    "status": "completed",
+    "activeForm": "Implementing KeePassXC and parallel execution"
+  },
+  {
+    "content": "Apply G_MESSAGES_DEBUG fix to make it configurable",
+    "status": "in_progress",
+    "activeForm": "Applying G_MESSAGES_DEBUG fix"
+  },
+  {
+    "content": "Clone and analyze Hydenix for framework methodology",
+    "status": "completed",
+    "activeForm": "Cloning and analyzing Hydenix"
+  },
+  {
+    "content": "Analyze GitHub commit history for ghostty implementation",
+    "status": "completed",
+    "activeForm": "Analyzing GitHub commit history for ghostty"
+  },
+  {
+    "content": "Create pretty visualization of nix-shell progress",
+    "status": "in_progress",
+    "activeForm": "Creating pretty visualization of nix-shell progress"
+  }
+]

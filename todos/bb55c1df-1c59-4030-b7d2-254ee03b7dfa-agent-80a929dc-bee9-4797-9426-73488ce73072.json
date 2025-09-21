@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check if hyprgrass plugin is loaded in Hyprland",
+    "status": "completed",
+    "activeForm": "Checking hyprgrass plugin status in Hyprland"
+  },
+  {
+    "content": "Verify touchscreen device at /dev/input/event18 exists and is accessible",
+    "status": "in_progress",
+    "activeForm": "Verifying touchscreen device accessibility"
+  },
+  {
+    "content": "Check gesture configuration in hyprgrass-config.nix",
+    "status": "pending",
+    "activeForm": "Checking hyprgrass gesture configuration"
+  },
+  {
+    "content": "Verify 3-finger swipe bindings are configured correctly",
+    "status": "pending",
+    "activeForm": "Verifying 3-finger swipe binding configuration"
+  }
+]

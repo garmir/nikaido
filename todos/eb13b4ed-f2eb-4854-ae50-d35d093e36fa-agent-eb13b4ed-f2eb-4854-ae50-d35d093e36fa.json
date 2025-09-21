@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Check current system status and uncommitted changes",
+    "status": "completed",
+    "activeForm": "Checking current system status and uncommitted changes"
+  },
+  {
+    "content": "Add new untracked files to git",
+    "status": "completed",
+    "activeForm": "Adding new untracked files to git"
+  },
+  {
+    "content": "Commit local changes",
+    "status": "completed",
+    "activeForm": "Committing local changes"
+  },
+  {
+    "content": "Test configuration build",
+    "status": "completed",
+    "activeForm": "Testing configuration build"
+  },
+  {
+    "content": "Switch system to new configuration",
+    "status": "in_progress",
+    "activeForm": "Switching system to new configuration"
+  }
+]

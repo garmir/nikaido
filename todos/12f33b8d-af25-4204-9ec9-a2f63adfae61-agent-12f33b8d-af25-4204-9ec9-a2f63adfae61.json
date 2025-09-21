@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Complete NixOS configuration build and switch",
+    "status": "in_progress",
+    "activeForm": "Completing NixOS configuration build and switch"
+  },
+  {
+    "content": "Verify thermal management service is running",
+    "status": "pending",
+    "activeForm": "Verifying thermal management service is running"
+  },
+  {
+    "content": "Check hyprgrass plugin loaded in Hyprland",
+    "status": "pending",
+    "activeForm": "Checking hyprgrass plugin loaded in Hyprland"
+  },
+  {
+    "content": "Test all system services after rebuild",
+    "status": "pending",
+    "activeForm": "Testing all system services after rebuild"
+  }
+]

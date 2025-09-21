@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Read existing CLAUDE.md to understand current documentation",
+    "status": "in_progress",
+    "activeForm": "Reading existing CLAUDE.md"
+  },
+  {
+    "content": "Analyze repository structure and key configuration files",
+    "status": "pending",
+    "activeForm": "Analyzing repository structure"
+  },
+  {
+    "content": "Read README and other documentation files",
+    "status": "pending",
+    "activeForm": "Reading documentation"
+  },
+  {
+    "content": "Examine flake.nix and configuration.nix for build commands",
+    "status": "pending",
+    "activeForm": "Examining build configuration"
+  },
+  {
+    "content": "Analyze module structure and architecture",
+    "status": "pending",
+    "activeForm": "Analyzing module architecture"
+  },
+  {
+    "content": "Create improved CLAUDE.md with all findings",
+    "status": "pending",
+    "activeForm": "Creating improved CLAUDE.md"
+  }
+]

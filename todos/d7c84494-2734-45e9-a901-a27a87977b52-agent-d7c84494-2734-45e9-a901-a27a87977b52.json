@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Apply stylus rotation fix to auto-rotate.nix",
+    "status": "in_progress",
+    "activeForm": "Applying stylus rotation fix to auto-rotate.nix"
+  },
+  {
+    "content": "Apply stylus rotation fix to display-rotation.nix",
+    "status": "in_progress",
+    "activeForm": "Applying stylus rotation fix to display-rotation.nix"
+  },
+  {
+    "content": "Clean up git state and commit changes",
+    "status": "pending",
+    "activeForm": "Cleaning up git state and committing changes"
+  },
+  {
+    "content": "Rebuild NixOS configuration with touchscreen changes",
+    "status": "pending",
+    "activeForm": "Rebuilding NixOS configuration with touchscreen changes"
+  },
+  {
+    "content": "Verify touchscreen calibration persists after rebuild",
+    "status": "pending",
+    "activeForm": "Verifying touchscreen calibration persists after rebuild"
+  }
+]

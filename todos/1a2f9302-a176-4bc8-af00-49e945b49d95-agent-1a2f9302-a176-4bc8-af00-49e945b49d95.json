@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Enable thermald service for thermal protection",
+    "status": "in_progress",
+    "activeForm": "Enabling thermald service for thermal protection"
+  },
+  {
+    "content": "Check current thermald status",
+    "status": "pending",
+    "activeForm": "Checking current thermald status"
+  },
+  {
+    "content": "Verify thermald package availability",
+    "status": "pending",
+    "activeForm": "Verifying thermald package availability"
+  },
+  {
+    "content": "Check service conflicts",
+    "status": "pending",
+    "activeForm": "Checking service conflicts"
+  },
+  {
+    "content": "Add thermald to configuration",
+    "status": "pending",
+    "activeForm": "Adding thermald to configuration"
+  },
+  {
+    "content": "Test configuration with thermald",
+    "status": "pending",
+    "activeForm": "Testing configuration with thermald"
+  },
+  {
+    "content": "Apply and verify thermal protection",
+    "status": "pending",
+    "activeForm": "Applying and verifying thermal protection"
+  },
+  {
+    "content": "Commit stable configuration",
+    "status": "pending",
+    "activeForm": "Committing stable configuration"
+  },
+  {
+    "content": "Document solution",
+    "status": "pending",
+    "activeForm": "Documenting solution"
+  }
+]

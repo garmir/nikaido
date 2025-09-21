@@ -1,0 +1,186 @@
+2025-09-19 03:50:43 | DEBUG    | superclaude | SuperClaude called with operation: install
+2025-09-19 03:50:43 | DEBUG    | superclaude | Arguments: {'verbose': False, 'quiet': False, 'install_dir': PosixPath('/home/a/.claude'), 'dry_run': False, 'force': False, 'yes': True, 'operation': 'install', 'components': ['core', 'modes', 'commands', 'agents', 'mcp_docs'], 'no_backup': False, 'list_components': False, 'diagnose': False}
+2025-09-19 03:50:43 | INFO     | superclaude | Executing operation: install
+2025-09-19 03:50:43 | INFO     | superclaude | Starting install operation
+2025-09-19 03:50:43 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 441204)
+2025-09-19 03:50:43 | INFO     | superclaude | Initializing installation system...
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 5 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Modes
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['MODE_Brainstorming.md', 'MODE_Introspection.md', 'MODE_Orchestration.md', 'MODE_Task_Management.md', 'MODE_Token_Efficiency.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 14 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Agents
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['backend-architect.md', 'devops-architect.md', 'frontend-architect.md', 'learning-guide.md', 'performance-engineer.md', 'python-expert.md', 'quality-engineer.md', 'refactoring-expert.md', 'requirements-analyst.md', 'root-cause-analyst.md', 'security-engineer.md', 'socratic-mentor.md', 'system-architect.md', 'technical-writer.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 0 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/MCP/configs
+2025-09-19 03:50:43 | INFO     | superclaude | Validating system requirements...
+2025-09-19 03:50:43 | INFO     | superclaude | All system requirements met
+2025-09-19 03:50:43 | WARNING  | superclaude | Installation directory already exists: /home/a/.claude
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 5 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Modes
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['MODE_Brainstorming.md', 'MODE_Introspection.md', 'MODE_Orchestration.md', 'MODE_Task_Management.md', 'MODE_Token_Efficiency.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 14 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Agents
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['backend-architect.md', 'devops-architect.md', 'frontend-architect.md', 'learning-guide.md', 'performance-engineer.md', 'python-expert.md', 'quality-engineer.md', 'refactoring-expert.md', 'requirements-analyst.md', 'root-cause-analyst.md', 'security-engineer.md', 'socratic-mentor.md', 'system-architect.md', 'technical-writer.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 5 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Modes
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['MODE_Brainstorming.md', 'MODE_Introspection.md', 'MODE_Orchestration.md', 'MODE_Task_Management.md', 'MODE_Token_Efficiency.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 14 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Agents
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['backend-architect.md', 'devops-architect.md', 'frontend-architect.md', 'learning-guide.md', 'performance-engineer.md', 'python-expert.md', 'quality-engineer.md', 'refactoring-expert.md', 'requirements-analyst.md', 'root-cause-analyst.md', 'security-engineer.md', 'socratic-mentor.md', 'system-architect.md', 'technical-writer.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 0 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/MCP/configs
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 3 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Core
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['FLAGS.md', 'PRINCIPLES.md', 'RULES.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 5 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Modes
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['MODE_Brainstorming.md', 'MODE_Introspection.md', 'MODE_Orchestration.md', 'MODE_Task_Management.md', 'MODE_Token_Efficiency.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 21 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Commands
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['analyze.md', 'brainstorm.md', 'build.md', 'cleanup.md', 'design.md', 'document.md', 'estimate.md', 'explain.md', 'git.md', 'implement.md', 'improve.md', 'index.md', 'load.md', 'reflect.md', 'save.md', 'select-tool.md', 'spawn.md', 'task.md', 'test.md', 'troubleshoot.md', 'workflow.md']
+2025-09-19 03:50:43 | DEBUG    | superclaude | Discovered 14 .md files in /nix/store/2p2iqqwyiyjnbwc78hwz6f4892zq6f5a-superclaude-4.0.6/lib/python3.13/site-packages/SuperClaude/Agents
+2025-09-19 03:50:43 | DEBUG    | superclaude | Files found: ['backend-architect.md', 'devops-architect.md', 'frontend-architect.md', 'learning-guide.md', 'performance-engineer.md', 'python-expert.md', 'quality-engineer.md', 'refactoring-expert.md', 'requirements-analyst.md', 'root-cause-analyst.md', 'security-engineer.md', 'socratic-mentor.md', 'system-architect.md', 'technical-writer.md']
+2025-09-19 03:50:43 | INFO     | superclaude | Installing 5 components...
+2025-09-19 03:50:43 | INFO     | superclaude | Creating backup of existing installation...
+2025-09-19 03:50:45 | INFO     | superclaude | Installing core...
+2025-09-19 03:50:45 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 441204)
+2025-09-19 03:50:45 | INFO     | superclaude | Installing SuperClaude core framework files...
+2025-09-19 03:50:45 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 441204)
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying FLAGS.md to /home/a/.claude/FLAGS.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied FLAGS.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying PRINCIPLES.md to /home/a/.claude/PRINCIPLES.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied PRINCIPLES.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying RULES.md to /home/a/.claude/RULES.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied RULES.md
+2025-09-19 03:50:45 | INFO     | superclaude | <CoreComponent(core)> component installed successfully (3 files)
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with framework configuration
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with core component registration
+2025-09-19 03:50:45 | DEBUG    | superclaude | Found existing imports: {'MODE_Introspection.md', 'MCP_Magic.md', 'MCP_Context7.md', 'FLAGS.md', 'MODE_Task_Management.md', 'MCP_Serena.md', 'PRINCIPLES.md', 'MODE_Token_Efficiency.md', 'MCP_Playwright.md', 'MCP_Sequential.md', 'MCP_Morphllm.md', 'MODE_Orchestration.md', 'RULES.md', 'MODE_Brainstorming.md'}
+2025-09-19 03:50:45 | INFO     | superclaude | All files already imported, no changes needed
+2025-09-19 03:50:45 | INFO     | superclaude | Updated CLAUDE.md with core framework imports
+2025-09-19 03:50:45 | INFO     | superclaude | Installing modes...
+2025-09-19 03:50:45 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 441204)
+2025-09-19 03:50:45 | INFO     | superclaude | Installing SuperClaude behavioral modes...
+2025-09-19 03:50:45 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 441204)
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying MODE_Brainstorming.md to /home/a/.claude/MODE_Brainstorming.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied MODE_Brainstorming.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying MODE_Introspection.md to /home/a/.claude/MODE_Introspection.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied MODE_Introspection.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying MODE_Orchestration.md to /home/a/.claude/MODE_Orchestration.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied MODE_Orchestration.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying MODE_Task_Management.md to /home/a/.claude/MODE_Task_Management.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied MODE_Task_Management.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying MODE_Token_Efficiency.md to /home/a/.claude/MODE_Token_Efficiency.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied MODE_Token_Efficiency.md
+2025-09-19 03:50:45 | INFO     | superclaude | Modes component installed successfully (5 mode files)
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with modes component registration
+2025-09-19 03:50:45 | DEBUG    | superclaude | Found existing imports: {'MODE_Introspection.md', 'MCP_Magic.md', 'MCP_Context7.md', 'FLAGS.md', 'MODE_Task_Management.md', 'MCP_Serena.md', 'PRINCIPLES.md', 'MODE_Token_Efficiency.md', 'MCP_Playwright.md', 'MCP_Sequential.md', 'MCP_Morphllm.md', 'MODE_Orchestration.md', 'RULES.md', 'MODE_Brainstorming.md'}
+2025-09-19 03:50:45 | INFO     | superclaude | All files already imported, no changes needed
+2025-09-19 03:50:45 | INFO     | superclaude | Updated CLAUDE.md with mode imports
+2025-09-19 03:50:45 | INFO     | superclaude | Installing commands...
+2025-09-19 03:50:45 | INFO     | superclaude | Installing SuperClaude command definitions...
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying analyze.md to /home/a/.claude/commands/sc/analyze.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied analyze.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying brainstorm.md to /home/a/.claude/commands/sc/brainstorm.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied brainstorm.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying build.md to /home/a/.claude/commands/sc/build.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied build.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying cleanup.md to /home/a/.claude/commands/sc/cleanup.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied cleanup.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying design.md to /home/a/.claude/commands/sc/design.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied design.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying document.md to /home/a/.claude/commands/sc/document.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied document.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying estimate.md to /home/a/.claude/commands/sc/estimate.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied estimate.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying explain.md to /home/a/.claude/commands/sc/explain.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied explain.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying git.md to /home/a/.claude/commands/sc/git.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied git.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying implement.md to /home/a/.claude/commands/sc/implement.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied implement.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying improve.md to /home/a/.claude/commands/sc/improve.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied improve.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying index.md to /home/a/.claude/commands/sc/index.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied index.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying load.md to /home/a/.claude/commands/sc/load.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied load.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying reflect.md to /home/a/.claude/commands/sc/reflect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied reflect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying save.md to /home/a/.claude/commands/sc/save.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied save.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying select-tool.md to /home/a/.claude/commands/sc/select-tool.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied select-tool.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying spawn.md to /home/a/.claude/commands/sc/spawn.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied spawn.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying task.md to /home/a/.claude/commands/sc/task.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied task.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying test.md to /home/a/.claude/commands/sc/test.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied test.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying troubleshoot.md to /home/a/.claude/commands/sc/troubleshoot.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied troubleshoot.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying workflow.md to /home/a/.claude/commands/sc/workflow.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied workflow.md
+2025-09-19 03:50:45 | INFO     | superclaude | <CommandsComponent(commands)> component installed successfully (21 files)
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with commands configuration
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with commands component registration
+2025-09-19 03:50:45 | INFO     | superclaude | Installing agents...
+2025-09-19 03:50:45 | INFO     | superclaude | Installing SuperClaude specialized agents...
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying backend-architect.md to /home/a/.claude/agents/backend-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied backend-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying devops-architect.md to /home/a/.claude/agents/devops-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied devops-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying frontend-architect.md to /home/a/.claude/agents/frontend-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied frontend-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying learning-guide.md to /home/a/.claude/agents/learning-guide.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied learning-guide.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying performance-engineer.md to /home/a/.claude/agents/performance-engineer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied performance-engineer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying python-expert.md to /home/a/.claude/agents/python-expert.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied python-expert.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying quality-engineer.md to /home/a/.claude/agents/quality-engineer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied quality-engineer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying refactoring-expert.md to /home/a/.claude/agents/refactoring-expert.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied refactoring-expert.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying requirements-analyst.md to /home/a/.claude/agents/requirements-analyst.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied requirements-analyst.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying root-cause-analyst.md to /home/a/.claude/agents/root-cause-analyst.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied root-cause-analyst.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying security-engineer.md to /home/a/.claude/agents/security-engineer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied security-engineer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying socratic-mentor.md to /home/a/.claude/agents/socratic-mentor.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied socratic-mentor.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying system-architect.md to /home/a/.claude/agents/system-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied system-architect.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Copying technical-writer.md to /home/a/.claude/agents/technical-writer.md
+2025-09-19 03:50:45 | DEBUG    | superclaude | Successfully copied technical-writer.md
+2025-09-19 03:50:45 | INFO     | superclaude | <AgentsComponent(agents)> component installed successfully (14 files)
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with agents configuration
+2025-09-19 03:50:45 | INFO     | superclaude | Registered agents component in metadata
+2025-09-19 03:50:45 | INFO     | superclaude | Updated metadata with agents configuration
+2025-09-19 03:50:45 | INFO     | superclaude | Registered agents component in metadata
+2025-09-19 03:50:45 | INFO     | superclaude | Successfully installed 14 specialized agents
+2025-09-19 03:50:45 | INFO     | superclaude | Installing mcp_docs...
+2025-09-19 03:50:45 | INFO     | superclaude.security | [ALLOW] Claude directory installation validated: /home/a/.claude (PID: 441204)
+2025-09-19 03:50:45 | INFO     | superclaude | Installing MCP server documentation...
+2025-09-19 03:50:45 | INFO     | superclaude | No MCP servers selected - skipping documentation installation
+2025-09-19 03:50:45 | INFO     | superclaude | Running post-installation validation...
+2025-09-19 03:50:45 | DEBUG    | superclaude | Checking installed version
+2025-09-19 03:50:45 | DEBUG    | superclaude | Metadata file exists, reading version
+2025-09-19 03:50:45 | DEBUG    | superclaude | Found version: 4.0.6
+2025-09-19 03:50:45 | INFO     | superclaude |   ✓ mcp_docs: Valid
+2025-09-19 03:50:45 | DEBUG    | superclaude | Checking installed version
+2025-09-19 03:50:45 | DEBUG    | superclaude | Metadata file exists, reading version
+2025-09-19 03:50:45 | DEBUG    | superclaude | Found version: 4.0.6
+2025-09-19 03:50:45 | INFO     | superclaude |   ✓ modes: Valid
+2025-09-19 03:50:45 | INFO     | superclaude |   ✓ commands: Valid
+2025-09-19 03:50:45 | INFO     | superclaude |   ✓ core: Valid
+2025-09-19 03:50:45 | DEBUG    | superclaude | Checking installed version
+2025-09-19 03:50:45 | DEBUG    | superclaude | Metadata file exists, reading version
+2025-09-19 03:50:45 | DEBUG    | superclaude | Found version: 4.0.6
+2025-09-19 03:50:45 | INFO     | superclaude |   ✓ agents: Valid
+2025-09-19 03:50:45 | INFO     | superclaude | All components validated successfully!
+2025-09-19 03:50:45 | INFO     | superclaude | Installation completed successfully in 2.5 seconds
+2025-09-19 03:50:45 | INFO     | superclaude | Installed components: mcp_docs, modes, commands, core, agents
+2025-09-19 03:50:45 | INFO     | superclaude | Backup created: /home/a/.claude/backups/superclaude_backup_20250919_035043.tar.gz

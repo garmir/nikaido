@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Fix Super+T keybinding (add imports and enable)",
+    "status": "pending",
+    "activeForm": "Fixing Super+T keybinding (add imports and enable)"
+  },
+  {
+    "content": "Push commits and sync with GitHub",
+    "status": "pending",
+    "activeForm": "Pushing commits and syncing with GitHub"
+  },
+  {
+    "content": "Enable hardware monitoring and thermal management",
+    "status": "pending",
+    "activeForm": "Enabling hardware monitoring and thermal management"
+  },
+  {
+    "content": "Resolve power management conflicts",
+    "status": "pending",
+    "activeForm": "Resolving power management conflicts"
+  },
+  {
+    "content": "Fix gesture system imports",
+    "status": "pending",
+    "activeForm": "Fixing gesture system imports"
+  }
+]

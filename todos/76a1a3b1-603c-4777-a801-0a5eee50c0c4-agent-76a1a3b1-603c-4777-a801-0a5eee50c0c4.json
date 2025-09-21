@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check for existing Hyprland configuration",
+    "status": "completed",
+    "activeForm": "Checking for existing Hyprland configuration"
+  },
+  {
+    "content": "Analyze home-manager and hydenix configuration",
+    "status": "completed",
+    "activeForm": "Analyzing home-manager and hydenix configuration"
+  },
+  {
+    "content": "Create pen input module for hydenix",
+    "status": "completed",
+    "activeForm": "Creating pen input module for hydenix"
+  },
+  {
+    "content": "Add module to configuration and test",
+    "status": "in_progress",
+    "activeForm": "Adding module to configuration and testing"
+  }
+]

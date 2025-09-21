@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Diagnose system crash and identify cause",
+    "status": "in_progress",
+    "activeForm": "Diagnosing system crash and identifying cause"
+  },
+  {
+    "content": "Check current NixOS generation status",
+    "status": "pending",
+    "activeForm": "Checking current NixOS generation status"
+  },
+  {
+    "content": "Review recent changes that caused crash",
+    "status": "pending",
+    "activeForm": "Reviewing recent changes that caused crash"
+  },
+  {
+    "content": "Rollback to stable generation if needed",
+    "status": "pending",
+    "activeForm": "Rolling back to stable generation if needed"
+  },
+  {
+    "content": "Fix problematic configurations",
+    "status": "pending",
+    "activeForm": "Fixing problematic configurations"
+  },
+  {
+    "content": "Safely rebuild with fixes",
+    "status": "pending",
+    "activeForm": "Safely rebuilding with fixes"
+  },
+  {
+    "content": "Test system stability",
+    "status": "pending",
+    "activeForm": "Testing system stability"
+  }
+]

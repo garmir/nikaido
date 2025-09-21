@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Enable pen input module in system configuration",
+    "status": "completed",
+    "activeForm": "Enabling pen input module in system configuration"
+  },
+  {
+    "content": "Enable unified remote service",
+    "status": "completed",
+    "activeForm": "Enabling unified remote service"
+  },
+  {
+    "content": "Enable ghostty terminal persistence",
+    "status": "completed",
+    "activeForm": "Enabling ghostty terminal persistence"
+  },
+  {
+    "content": "Test all enabled features",
+    "status": "in_progress",
+    "activeForm": "Testing all enabled features"
+  },
+  {
+    "content": "Rebuild system with new features",
+    "status": "pending",
+    "activeForm": "Rebuilding system with new features"
+  }
+]

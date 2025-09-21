@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Delegate workspace hygiene analysis through pure Task agent chains",
+    "status": "in_progress",
+    "activeForm": "Delegating workspace hygiene analysis through Task chains"
+  },
+  {
+    "content": "Create delegation tree with nix-shell execution endpoints only",
+    "status": "pending",
+    "activeForm": "Creating delegation tree with nix-shell endpoints"
+  },
+  {
+    "content": "Ensure zero direct tool usage at any delegation level",
+    "status": "pending",
+    "activeForm": "Ensuring zero direct tool usage"
+  }
+]

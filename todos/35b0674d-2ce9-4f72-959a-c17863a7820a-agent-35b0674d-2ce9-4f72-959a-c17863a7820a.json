@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Diagnose system crash and generation reversion",
+    "status": "in_progress",
+    "activeForm": "Diagnosing system crash and generation reversion"
+  },
+  {
+    "content": "Check current NixOS generation vs GitHub",
+    "status": "pending",
+    "activeForm": "Checking current NixOS generation vs GitHub"
+  },
+  {
+    "content": "Analyze system logs for crash cause",
+    "status": "pending",
+    "activeForm": "Analyzing system logs for crash cause"
+  },
+  {
+    "content": "Fix configuration issues causing crash",
+    "status": "pending",
+    "activeForm": "Fixing configuration issues causing crash"
+  },
+  {
+    "content": "Rebuild system from GitHub latest",
+    "status": "pending",
+    "activeForm": "Rebuilding system from GitHub latest"
+  },
+  {
+    "content": "Verify system stability after rebuild",
+    "status": "pending",
+    "activeForm": "Verifying system stability after rebuild"
+  }
+]

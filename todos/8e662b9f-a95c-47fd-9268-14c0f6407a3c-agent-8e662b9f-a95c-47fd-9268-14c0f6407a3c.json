@@ -1,0 +1,117 @@
+[
+  {
+    "content": "Complete thermal protection setup",
+    "status": "in_progress",
+    "activeForm": "Completing thermal protection setup"
+  },
+  {
+    "content": "Verify thermald service exists",
+    "status": "pending",
+    "activeForm": "Verifying thermald service exists"
+  },
+  {
+    "content": "Check systemctl status thermald",
+    "status": "pending",
+    "activeForm": "Checking systemctl status thermald"
+  },
+  {
+    "content": "Verify thermald.service file",
+    "status": "pending",
+    "activeForm": "Verifying thermald.service file"
+  },
+  {
+    "content": "Enable thermald in configuration",
+    "status": "pending",
+    "activeForm": "Enabling thermald in configuration"
+  },
+  {
+    "content": "Add services.thermald.enable = true",
+    "status": "pending",
+    "activeForm": "Adding services.thermald.enable = true"
+  },
+  {
+    "content": "Check for conflicts with power-profiles-daemon",
+    "status": "pending",
+    "activeForm": "Checking for conflicts with power-profiles-daemon"
+  },
+  {
+    "content": "Verify no TLP conflicts",
+    "status": "pending",
+    "activeForm": "Verifying no TLP conflicts"
+  },
+  {
+    "content": "Test thermald configuration",
+    "status": "pending",
+    "activeForm": "Testing thermald configuration"
+  },
+  {
+    "content": "Run nixos-rebuild dry-build",
+    "status": "pending",
+    "activeForm": "Running nixos-rebuild dry-build"
+  },
+  {
+    "content": "Check for build errors",
+    "status": "pending",
+    "activeForm": "Checking for build errors"
+  },
+  {
+    "content": "Verify thermal zones work with thermald",
+    "status": "pending",
+    "activeForm": "Verifying thermal zones work with thermald"
+  },
+  {
+    "content": "Apply and verify thermal protection",
+    "status": "pending",
+    "activeForm": "Applying and verifying thermal protection"
+  },
+  {
+    "content": "Run nixos-rebuild test with thermald",
+    "status": "pending",
+    "activeForm": "Running nixos-rebuild test with thermald"
+  },
+  {
+    "content": "Monitor system stability for 5 minutes",
+    "status": "pending",
+    "activeForm": "Monitoring system stability for 5 minutes"
+  },
+  {
+    "content": "Check thermal throttling works",
+    "status": "pending",
+    "activeForm": "Checking thermal throttling works"
+  },
+  {
+    "content": "Stress test CPU briefly",
+    "status": "pending",
+    "activeForm": "Stress testing CPU briefly"
+  },
+  {
+    "content": "Monitor temperature response",
+    "status": "pending",
+    "activeForm": "Monitoring temperature response"
+  },
+  {
+    "content": "Verify frequency scaling",
+    "status": "pending",
+    "activeForm": "Verifying frequency scaling"
+  },
+  {
+    "content": "Finalize stable configuration",
+    "status": "pending",
+    "activeForm": "Finalizing stable configuration"
+  },
+  {
+    "content": "Commit thermal protection changes",
+    "status": "pending",
+    "activeForm": "Committing thermal protection changes"
+  },
+  {
+    "content": "Push to GitHub",
+    "status": "pending",
+    "activeForm": "Pushing to GitHub"
+  },
+  {
+    "content": "Document solution in CLAUDE.md",
+    "status": "pending",
+    "activeForm": "Documenting solution in CLAUDE.md"
+  }
+]

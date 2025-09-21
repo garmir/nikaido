@@ -1,0 +1,32 @@
+[
+  {
+    "content": "CRITICAL - Kill excess Claude processes and implement stability",
+    "status": "completed",
+    "activeForm": "CRITICAL - Killing excess Claude processes and implementing stability"
+  },
+  {
+    "content": "Clean Claude session files and temp directories",
+    "status": "completed",
+    "activeForm": "Cleaning Claude session files and temp directories"
+  },
+  {
+    "content": "Validate touchscreen gesture support",
+    "status": "in_progress",
+    "activeForm": "Validating touchscreen gesture support"
+  },
+  {
+    "content": "Verify power management configuration",
+    "status": "pending",
+    "activeForm": "Verifying power management configuration"
+  },
+  {
+    "content": "Confirm Hydenix integration features",
+    "status": "pending",
+    "activeForm": "Confirming Hydenix integration features"
+  },
+  {
+    "content": "Implement Claude crash prevention measures",
+    "status": "pending",
+    "activeForm": "Implementing Claude crash prevention measures"
+  }
+]

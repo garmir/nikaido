@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Enable thermald for thermal protection",
+    "status": "in_progress",
+    "activeForm": "Enabling thermald for thermal protection"
+  },
+  {
+    "content": "Add thermald to system configuration",
+    "status": "pending",
+    "activeForm": "Adding thermald to system configuration"
+  },
+  {
+    "content": "Test thermald without conflicts",
+    "status": "pending",
+    "activeForm": "Testing thermald without conflicts"
+  },
+  {
+    "content": "Verify thermal zones with thermald",
+    "status": "pending",
+    "activeForm": "Verifying thermal zones with thermald"
+  },
+  {
+    "content": "Apply stable configuration",
+    "status": "pending",
+    "activeForm": "Applying stable configuration"
+  },
+  {
+    "content": "Commit and document solution",
+    "status": "pending",
+    "activeForm": "Committing and documenting solution"
+  }
+]

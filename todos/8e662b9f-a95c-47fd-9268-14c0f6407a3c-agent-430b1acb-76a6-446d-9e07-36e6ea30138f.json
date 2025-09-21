@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Coordinate thermal protection META TODO through 5 parallel agent groups",
+    "status": "in_progress",
+    "activeForm": "Coordinating thermal protection META TODO through 5 parallel agent groups"
+  },
+  {
+    "content": "Delegate Group 1 (TODO 2-4): Verify thermald service components to specialized agent",
+    "status": "pending",
+    "activeForm": "Delegating Group 1 (TODO 2-4): Verify thermald service components to specialized agent"
+  },
+  {
+    "content": "Delegate Group 2 (TODO 5-8): Enable thermald in configuration to specialized agent",
+    "status": "pending",
+    "activeForm": "Delegating Group 2 (TODO 5-8): Enable thermald in configuration to specialized agent"
+  },
+  {
+    "content": "Delegate Group 3 (TODO 9-12): Test thermald configuration to specialized agent",
+    "status": "pending",
+    "activeForm": "Delegating Group 3 (TODO 9-12): Test thermald configuration to specialized agent"
+  },
+  {
+    "content": "Delegate Group 4 (TODO 13-19): Apply and verify thermal protection to specialized agent",
+    "status": "pending",
+    "activeForm": "Delegating Group 4 (TODO 13-19): Apply and verify thermal protection to specialized agent"
+  },
+  {
+    "content": "Delegate Group 5 (TODO 20-23): Finalize stable configuration to specialized agent",
+    "status": "pending",
+    "activeForm": "Delegating Group 5 (TODO 20-23): Finalize stable configuration to specialized agent"
+  },
+  {
+    "content": "Monitor all parallel agents and coordinate final integration",
+    "status": "pending",
+    "activeForm": "Monitoring all parallel agents and coordinating final integration"
+  }
+]

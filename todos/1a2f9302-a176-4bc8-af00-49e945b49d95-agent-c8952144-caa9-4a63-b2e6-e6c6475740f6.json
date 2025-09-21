@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Check thermald package availability in nixpkgs",
+    "status": "in_progress",
+    "activeForm": "Checking thermald package availability in nixpkgs"
+  },
+  {
+    "content": "Search existing nix-modules configuration for thermald references",
+    "status": "pending",
+    "activeForm": "Searching existing nix-modules configuration for thermald references"
+  },
+  {
+    "content": "Verify thermald package installation status in current system",
+    "status": "pending",
+    "activeForm": "Verifying thermald package installation status in current system"
+  }
+]

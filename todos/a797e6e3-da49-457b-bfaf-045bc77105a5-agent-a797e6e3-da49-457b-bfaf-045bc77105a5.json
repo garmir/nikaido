@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Check current system status and generation",
+    "status": "in_progress",
+    "activeForm": "Checking current system status and generation"
+  },
+  {
+    "content": "Verify git repository state and compare with GitHub",
+    "status": "pending",
+    "activeForm": "Verifying git repository state and comparing with GitHub"
+  },
+  {
+    "content": "Diagnose crash cause from system logs",
+    "status": "pending",
+    "activeForm": "Diagnosing crash cause from system logs"
+  },
+  {
+    "content": "Reset to latest GitHub commit if needed",
+    "status": "pending",
+    "activeForm": "Resetting to latest GitHub commit if needed"
+  },
+  {
+    "content": "Rebuild system with latest configuration",
+    "status": "pending",
+    "activeForm": "Rebuilding system with latest configuration"
+  }
+]

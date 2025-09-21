@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Test rotation module consolidation",
+    "status": "completed",
+    "activeForm": "Testing rotation module consolidation"
+  },
+  {
+    "content": "Test terminal configuration cleanup",
+    "status": "completed",
+    "activeForm": "Testing terminal configuration cleanup"
+  },
+  {
+    "content": "Test power management enablement",
+    "status": "completed",
+    "activeForm": "Testing power management enablement"
+  },
+  {
+    "content": "Verify system stability after changes",
+    "status": "in_progress",
+    "activeForm": "Verifying system stability after changes"
+  },
+  {
+    "content": "Document test results",
+    "status": "pending",
+    "activeForm": "Documenting test results"
+  }
+]

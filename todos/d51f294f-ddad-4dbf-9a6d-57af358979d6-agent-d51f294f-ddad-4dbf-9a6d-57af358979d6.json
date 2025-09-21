@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Fix bash syntax issues in workflow methodology",
+    "status": "completed",
+    "activeForm": "Fixing bash syntax issues in workflow methodology"
+  },
+  {
+    "content": "Create corrected network discovery workflow",
+    "status": "completed",
+    "activeForm": "Creating corrected network discovery workflow"
+  },
+  {
+    "content": "Execute fixed methodology test",
+    "status": "completed",
+    "activeForm": "Executing fixed methodology test"
+  },
+  {
+    "content": "Document corrected methodology findings",
+    "status": "in_progress",
+    "activeForm": "Documenting corrected methodology findings"
+  },
+  {
+    "content": "Update .claude files with syntax corrections",
+    "status": "completed",
+    "activeForm": "Updating .claude files with syntax corrections"
+  }
+]

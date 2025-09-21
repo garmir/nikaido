@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Diagnose and fix Claude crashes - implement stability measures",
+    "status": "in_progress",
+    "activeForm": "Diagnosing and fixing Claude crashes - implementing stability measures"
+  },
+  {
+    "content": "Verify ghostty terminal functionality and keybindings",
+    "status": "pending",
+    "activeForm": "Verifying ghostty terminal functionality and keybindings"
+  },
+  {
+    "content": "Test fingerprint authentication service",
+    "status": "pending",
+    "activeForm": "Testing fingerprint authentication service"
+  },
+  {
+    "content": "Check auto-rotation service status",
+    "status": "pending",
+    "activeForm": "Checking auto-rotation service status"
+  },
+  {
+    "content": "Validate touchscreen gesture support",
+    "status": "pending",
+    "activeForm": "Validating touchscreen gesture support"
+  },
+  {
+    "content": "Verify power management configuration",
+    "status": "pending",
+    "activeForm": "Verifying power management configuration"
+  },
+  {
+    "content": "Confirm Hydenix integration features",
+    "status": "pending",
+    "activeForm": "Confirming Hydenix integration features"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Enter parent nix-shell with superclaude and tools",
+    "status": "completed",
+    "activeForm": "Entering parent nix-shell with superclaude and tools"
+  },
+  {
+    "content": "Create parallel delegation with nested nix-shells",
+    "status": "completed",
+    "activeForm": "Creating parallel delegation with nested nix-shells"
+  },
+  {
+    "content": "Agent 1: Verify line references in nix-shell",
+    "status": "in_progress",
+    "activeForm": "Agent 1 verifying line references in nix-shell"
+  },
+  {
+    "content": "Agent 2: Update architecture in nix-shell",
+    "status": "pending",
+    "activeForm": "Agent 2 updating architecture in nix-shell"
+  },
+  {
+    "content": "Agent 3: Verify commands in nix-shell",
+    "status": "pending",
+    "activeForm": "Agent 3 verifying commands in nix-shell"
+  },
+  {
+    "content": "Merge results from all agents",
+    "status": "pending",
+    "activeForm": "Merging results from all agents"
+  }
+]

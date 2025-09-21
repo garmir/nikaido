@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check waybar status and configuration",
+    "status": "in_progress",
+    "activeForm": "Checking waybar status and configuration"
+  },
+  {
+    "content": "Verify hypridle service status",
+    "status": "pending",
+    "activeForm": "Verifying hypridle service status"
+  },
+  {
+    "content": "Check HyDE theme integration",
+    "status": "pending",
+    "activeForm": "Checking HyDE theme integration"
+  },
+  {
+    "content": "Confirm custom namespace modules are loaded",
+    "status": "pending",
+    "activeForm": "Confirming custom namespace modules are loaded"
+  }
+]

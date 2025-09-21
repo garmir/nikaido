@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Rebuild NixOS configuration with --impure flag",
+    "status": "in_progress",
+    "activeForm": "Rebuilding NixOS configuration with --impure flag"
+  },
+  {
+    "content": "Test Super+T keybinding launches ghostty",
+    "status": "pending",
+    "activeForm": "Testing Super+T keybinding launches ghostty"
+  },
+  {
+    "content": "Push 5 unpushed commits to GitHub origin/production",
+    "status": "pending",
+    "activeForm": "Pushing 5 unpushed commits to GitHub origin/production"
+  },
+  {
+    "content": "Enable hardware monitoring module (resolve permissions)",
+    "status": "pending",
+    "activeForm": "Enabling hardware monitoring module (resolve permissions)"
+  },
+  {
+    "content": "Test thermald thermal protection functionality",
+    "status": "pending",
+    "activeForm": "Testing thermald thermal protection functionality"
+  },
+  {
+    "content": "Verify fingerprint authentication (SDDM, sudo, swaylock)",
+    "status": "pending",
+    "activeForm": "Verifying fingerprint authentication (SDDM, sudo, swaylock)"
+  },
+  {
+    "content": "Test auto-rotate service for dual monitors",
+    "status": "pending",
+    "activeForm": "Testing auto-rotate service for dual monitors"
+  }
+]

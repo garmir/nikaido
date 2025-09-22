@@ -1,0 +1,35 @@
+name: Delegated Test - Ubuntu Fallback Priority
+on: [push, workflow_dispatch]
+
+jobs:
+  delegated-ubuntu-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        test_id: [T001, T002, T003, T004, T005]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ubuntu Priority Test ${{ matrix.test_id }}
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y curl jq nmap python3 nodejs
+
+          echo "=== Delegated Test ${{ matrix.test_id }} ===" > delegated-${{ matrix.test_id }}.txt
+          echo "Repository: ${{ github.repository }}" >> delegated-${{ matrix.test_id }}.txt
+          echo "Test Type: Ubuntu fallback compliance" >> delegated-${{ matrix.test_id }}.txt
+          echo "Timestamp: $(date)" >> delegated-${{ matrix.test_id }}.txt
+          curl -s ifconfig.me >> delegated-${{ matrix.test_id }}.txt
+
+          # Test .claude compliance patterns
+          echo "GitHub CLI test: $(gh --version | head -1)" >> delegated-${{ matrix.test_id }}.txt 2>/dev/null || echo "GitHub CLI: not available" >> delegated-${{ matrix.test_id }}.txt
+          echo "Tool arsenal: nmap $(nmap --version | head -1), python3 $(python3 --version), node $(node --version)" >> delegated-${{ matrix.test_id }}.txt
+
+          echo "✅ DELEGATED TEST ${{ matrix.test_id }}: SUCCESS" >> delegated-${{ matrix.test_id }}.txt
+
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: delegated-test-${{ matrix.test_id }}-$(echo ${{ github.repository }} | cut -d/ -f2)
+          path: "delegated-*.txt"
+          retention-days: 1

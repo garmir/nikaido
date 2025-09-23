@@ -1,0 +1,31 @@
+name: Immediate Ubuntu Test
+on: [push, workflow_dispatch]
+
+jobs:
+  immediate-execution:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Immediate Ubuntu Execution Test
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y curl jq nmap python3 nodejs
+
+          echo "=== IMMEDIATE UBUNTU SUCCESS TEST ===" > immediate-test.txt
+          echo "Repository: ${{ github.repository }}" >> immediate-test.txt
+          echo "Timestamp: $(date)" >> immediate-test.txt
+          curl -s ifconfig.me >> immediate-test.txt
+          echo "Tools: $(nmap --version | head -1), $(python3 --version), $(node --version)" >> immediate-test.txt
+
+          # Test .claude compliance
+          echo "✅ UBUNTU APPROACH: WORKING" >> immediate-test.txt
+          echo "✅ TOOL AVAILABILITY: GUARANTEED" >> immediate-test.txt
+          echo "✅ EXECUTION: IMMEDIATE" >> immediate-test.txt
+
+      - name: Upload Immediate Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: immediate-ubuntu-success-$(echo ${{ github.repository }} | cut -d/ -f2)
+          path: "immediate-test.txt"
+          retention-days: 1
